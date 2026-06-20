@@ -1,24 +1,28 @@
-Hi, I'm Yusuf Jimoh 👋
+# Hi, I'm Yusuf Jimoh 👋
 
 Machine Learning Engineer passionate about building intelligent systems that transform unstructured data into actionable insights.
 
-🔹 NLP & Generative AI
-🔹 OCR & Document Intelligence
-🔹 Credit Risk & Financial Analytics
-🔹 MLOps & Production AI Systems
+## 🚀 Specializations
 
-Selected Work:
-• Bank Statement Extraction Platform
-• Transaction Categorization Engine
-• Credit Assessment & Income Verification Models
-• LLM-Powered Document Analysis Agents
-• Speaker Identification & Voice Analytics
+* 🧠 NLP & Generative AI
+* 📄 OCR & Document Intelligence
+* 💳 Credit Risk & Financial Analytics
+* ⚙️ MLOps & Production AI Systems
 
-Tech:
-Python • PyTorch • FastAPI • Scikit-Learn • SQL • Docker • Git
+## 🌟 Selected Work
 
-📫 Connect with me:
+* Bank Statement Extraction Platform
+* Transaction Categorization Engine
+* Credit Assessment & Income Verification Models
+* LLM-Powered Document Analysis Agents
+* Speaker Identification & Voice Analytics
 
-📧 Email: [jimohyusufolatunji4@gmail.com](mailto:jimohyusufolatunji4@gmail.com)
-💼 LinkedIn: [https://www.linkedin.com/in/jimoh-yusuf-433b522a5/]
-💻 GitHub: [www.github.com/yusufpy]
+## 🛠️ Tech Stack
+
+`Python` • `PyTorch` • `FastAPI` • `Scikit-Learn` • `SQL` • `Docker` • `Git`
+
+## 📫 Connect with Me
+
+* 📧 **Email:** [jimohyusufolatunji4@gmail.com](mailto:jimohyusufolatunji4@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/jimoh-yusuf-433b522a5](https://www.linkedin.com/in/jimoh-yusuf-433b522a5/)
+* 💻 **GitHub:** [github.com/yusufpy](https://github.com/yusufpy)
